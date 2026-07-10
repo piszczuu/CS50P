@@ -1,0 +1,7 @@
+QLabel {
+    background-color: #262626;
+    color: #FFFFFF;
+    font-family: Titillium;
+    font-size: 48px;
+    margin: 100px;
+}
